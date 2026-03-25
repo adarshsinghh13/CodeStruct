@@ -44,8 +44,8 @@ CodeStruct is a modern web application designed to help computer science student
 ### Setup
 1. Clone the repository
    ```bash
-   git clone https://github.com/ksparth12/dsa-hub.git
-   cd dsa-hub
+   git clone https://github.com/adarshsinghh13/CodeStruct.git
+   cd CodeStruct
    ```
 
 2. Install dependencies
@@ -93,7 +93,7 @@ CodeStruct is a modern web application designed to help computer science student
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/ksparth12/dsa-hub.git
+   git remote add origin https://github.com/adarshsinghh13/CodeStruct.git
    git push -u origin main
    ```
 
