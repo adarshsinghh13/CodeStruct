@@ -133,7 +133,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-Sparth Kumar - Developer and Maintainer
+Adarsh Singh - Developer and Maintainer
 - Email: [adarshsinghh13@gmail.com](mailto:adarshsinghh13@gmail.com)
 - GitHub: [@adarshsinghh13](https://github.com/adarshsinghh13)
 - LinkedIn: [adarshsinghh13](https://www.linkedin.com/in/adarshsinghh13)
