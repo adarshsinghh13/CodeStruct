@@ -1,7 +1,7 @@
 # CodeStruct
 
 <p align="center">
-  <img src="public/dsa-favicon.svg" alt="DSA Hub Logo" width="120" height="120">
+  <img src="public/codestruct-favicon.png" alt="DSA Hub Logo" width="120" height="120">
 </p>
 
 ## About
