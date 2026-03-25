@@ -136,9 +136,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 Sparth Kumar - Developer and Maintainer
 - Email: [adarshsinghh13@gmail.com](mailto:adarshsinghh13@gmail.com)
 - GitHub: [@adarshsinghh13](https://github.com/adarshsinghh13)
-- LinkedIn: [adarshsinghh13](www.linkedin.com/in/adarshsinghh13)
+- LinkedIn: [adarshsinghh13](https://www.linkedin.com/in/adarshsinghh13)
 
-Project Link: [https://github.com/ksparth12/dsa-hub](https://github.com/ksparth12/dsa-hub)
+Project Link: [https://github.com/adarshsinghh13/CodeStruct](https://github.com/adarshsinghh13/CodeStruct)
 
-## License
-This project is licensed under the MIT License.
+
